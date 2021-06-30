@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yan, I'm from Canada 🇨🇦🍁, _thank you_! 
+- 👋 Hi, I’m Yan, I'm from Canada 🇨🇦 !! 🍁, _thank you_! 
 - 👀 I’m interested in bulding resilient systems! 💪
 - 🌱 I’m currently learning React! 
 - 💞️ I’m looking to collaborate on **BE** primarly, but eager to learn more about FE. 👨‍💻
